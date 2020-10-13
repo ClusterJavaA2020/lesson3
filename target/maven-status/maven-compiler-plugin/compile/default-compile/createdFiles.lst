@@ -1,0 +1,5 @@
+org\iryna97\lesson3\config\AppConfig.class
+org\iryna97\lesson3\config\MyWebAppInit.class
+org\iryna97\lesson3\model\UserModel.class
+org\iryna97\lesson3\controller\MyController.class
+org\iryna97\lesson3\model\UserModel$UserModelBuilder.class
